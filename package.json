@@ -1,6 +1,6 @@
 {
-  "name": "passport-client-cert",
-  "version": "1.0.1",
+  "name": "passport-client-certificate",
+  "version": "1.0.0",
   "description": "Passport.js strategy for TLS client certificate authentication",
   "main": "src",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ripjar/passport-client-cert"
+    "url": "https://github.com/f4bio/passport-client-certificate"
   },
   "keywords": [
     "pki",
@@ -19,12 +19,12 @@
     "cert",
     "authentication"
   ],
-  "author": "Joe Whitfield-Seed",
+  "author": "Fabio Tea",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ripjar/passport-client-cert/issues"
+    "url": "https://github.com/f4bio/passport-client-certificate/issues"
   },
-  "homepage": "https://github.com/ripjar/passport-client-cert",
+  "homepage": "https://github.com/f4bio/passport-client-certificate",
   "dependencies": {
     "passport-strategy": "1.*"
   },
